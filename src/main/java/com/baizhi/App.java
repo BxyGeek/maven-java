@@ -8,5 +8,6 @@ public class App {
 
         System.out.println("commit");
         System.out.println("Hello World!");
+        System.out.println("Welcome To My Git");
     }
 }
