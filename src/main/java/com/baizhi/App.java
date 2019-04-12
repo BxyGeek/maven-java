@@ -12,5 +12,8 @@ public class App {
 
 
         System.out.println("Welcome To My Git");
+
+
+        System.out.println("测试添加两个");
     }
 }
