@@ -18,5 +18,10 @@ public class User implements Serializable {
 
     public User(String id) {
         this.id = id;
+        System.out.println("this is first");
+
+
+        System.out.println("我是同事B");
     }
+
 }
